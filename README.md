@@ -5,8 +5,7 @@
   - Until that is done, i only publish builds. No Source.
 
 # Virus?!°?!?!?
-  - No, I protect the exe with Enigma Protector, so the guy cant steal it.
-  - You can read more about it on their offical Site. http://www.enigmaprotector.com/
+  - No, I protect the exe with a Obfuscator, so the guy cant steal it. 
 
 # Donate
   - Every Donation will help the Project!
